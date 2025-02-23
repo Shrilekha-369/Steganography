@@ -3,7 +3,10 @@
 **by Mudunuri Shrilekha**
 
 ## 📌 **Overview**  
-This project implements **steganography**, allowing users to hide encrypted messages within images while ensuring data security and stealth. Unlike traditional encryption, which signals the presence of hidden data, this tool conceals information seamlessly within digital content.  
+This project implements **steganography**, allowing users to hide encrypted messages within images while ensuring data security and stealth. Unlike traditional encryption, which signals the presence of hidden data, this tool conceals information seamlessly within digital content. 
+
+The .pptx file has all the details about the project. 
+The sample image used for the results shown in the PPT file are also in this repository.
 
 ## 🔥 **Features**  
 ✅ **Dual-Layer Security:** Encrypts messages before embedding for extra protection.  
